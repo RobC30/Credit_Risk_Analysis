@@ -9,6 +9,7 @@ The aim of this project is to utilize machine learning models in assessing an in
 - Combo sampling approach (SMOTEENN)<br>
 - BalancedRandomForestClassifer & EasyEnsembleClassifer<br>
   </strong>
+  <br>
 
 For each model, we are determine its balanced accuracy score, precision, recall and F1 score. We will then compare and contrast to see which might be best suitable for credit risk assesment.
 
