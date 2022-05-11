@@ -105,4 +105,4 @@ Other statistics as follows:
 ____________________________________________________
 
 ## Summary
-For our credit risk analysis, our objective is to determine if a loan would be high-risk for a bank. We will mainly look at these 3 statistics, High-Risk recall rate, Low-Risk recall rate & accuracy score. Considering all these, if we are to use the EasyEnsembleClassifer model for our analysis, this will be the best prediction tool for credit risks.
+For our credit risk analysis, our objective is to determine if a loan would be high-risk for a bank. We will mainly look at these 3 statistics, High-Risk recall rate, Low-Risk recall rate & accuracy score. Considering all these, if we are to use the EasyEnsembleClassifer model for our analysis, this will be the best prediction tool for credit risks. 
