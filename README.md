@@ -4,7 +4,7 @@
 The aim of this project is to utilize machine learning models in assessing an individual's credit risk. We are going to use different machine learning methods in determining credit risk and asses which mmodel might suit our analysis best. Here is the list of machine learning models to be used:
 
 **- Oversampling (RandomOverSampler) & SMOTE**
-**- Undersampling (ClusterCentroids)
+**- Undersampling (ClusterCentroids)**
 **- Combo sampling approach (SMOTEENN)**
 **- BalancedRandomForestClassifer & EasyEnsembleClassifer**
 
